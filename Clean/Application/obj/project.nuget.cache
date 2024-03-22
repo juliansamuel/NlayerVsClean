@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9p/cAR2oSJq5CBu9lfuV70vFIrNFeNgZrb4n7XNKyd8FujmFM9rreYt/sYDSn7BTeIYjJb39y8x7Vd4YtFbHw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\YouTubeVideos\\November2022\\NlayerVsClean\\Clean\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danpd\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\danpd\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

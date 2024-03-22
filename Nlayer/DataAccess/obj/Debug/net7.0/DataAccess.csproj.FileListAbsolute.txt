@@ -1,0 +1,15 @@
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\bin\Debug\net7.0\Core.dll
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\bin\Debug\net7.0\Core.pdb
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\repos\YouTubeVideos\November2022\NlayerVsClean\Nlayer\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
